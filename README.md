@@ -13,9 +13,24 @@ Machine learning models with unbalanced classes will be evaluated to determine w
 * Ensemble classifiers to reduce bias with BalancedRandomForestClassifier and EasyEnsembleClassifier
 
 <sub><sub>*These models are from Python libraries scikit-learn(sklearn) and imbalanced-learn*</sub></sub>
----
-# Results
-This is where the results will go
 
-# Summary
+---
+
+# Results
+## Oversampling
+### RandomOverSampler
+### SMOTE
+## Undersampling
+### ClusterCentroids
+## Combination Sampling
+### SMOTEENN
+## Ensemble classifiers
+### BalancedRandomForestClassifier
+### EasyEnsembleClassifier
+
+# Summary 
 This is where the summary will go
+
+---
+
+It is to be noted that machine learning models may not be as robust as real-life instances due to only taking a small set of data compared to the large size of the original dataset. Close to 99% of the applications in the original dataset (before the sample or training was taken) were classified as "low risk". This disparity between the actual dataset and real-life instances should require further analysis.
