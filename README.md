@@ -12,7 +12,7 @@ Machine learning models with unbalanced classes will be evaluated to determine w
 * Combination Sampling with SMOTEENN (Synthetic Minority Oversampling Technique + Edited NearestNeighbors)
 * Ensemble classifiers to reduce bias with BalancedRandomForestClassifier and EasyEnsembleClassifier
 
-*These models are all from Python libraries scikit-learn(sklearn) and imbalanced-learn* 
+<sub><sub>*These models are from Python libraries scikit-learn(sklearn) and imbalanced-learn*</sub></sub>
 ---
 # Results
 This is where the results will go
