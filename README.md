@@ -87,3 +87,5 @@ This is where the summary will go
 ---
 
 It is to be noted that machine learning models may not be as robust as real-life instances due to only taking a small set of data compared to the large size of the original dataset. Close to 99% of the applications in the original dataset (before the sample or training was taken) were classified as "low risk". This disparity between the actual dataset and real-life instances should require further analysis.
+This is the total of each classification before the data was sampled or trained:
+![classification totals before training](Resources/original_data.png)
