@@ -58,7 +58,7 @@ Machine learning models with unbalanced classes will be evaluated to determine w
 ![confusion matrix for SMOTEENN](Resources/cm_SMOTEENN.png)
 
 #### Imbalanced Classification Report
-![imbalanced report for SMOTEENN](Resources/report_SMOTEEN.png)
+![imbalanced report for SMOTEENN](Resources/report_SMOTEENN.png)
 
 ## Ensemble classifiers
 ### BalancedRandomForestClassifier
